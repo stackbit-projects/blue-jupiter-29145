@@ -12,7 +12,6 @@ sections:
     type: section_content
     content: |
       [Website By Design ](https://websitebydesign.co.uk)
-    image: images/avatar.png
     image_alt: test
   - title: Recent Posts
     section_id: posts
