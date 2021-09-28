@@ -1,6 +1,6 @@
 ---
 title: Website By Design
-subtitle: Vanilla styleguide.
+subtitle: Your Professional Website Designer
 seo:
   title: UI Kit
   description: This is the UI kit page
