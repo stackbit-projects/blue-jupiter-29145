@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Website By Design
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
